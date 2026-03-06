@@ -18,10 +18,10 @@ I’m a passionate Frontend Developer with hands-on experience in building moder
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript  
-- **Frontend:** React.js  
+- **Languages:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+- **MERN STACK SEVELOPER
 - **Tools & Platforms:** Git, GitHub  
-- **Database (Basic):** SQL / PostgreSQL  
+- **Database (Basic):** MONGODB
 - **Currently Exploring:** Advanced React patterns & performance optimization  
 
 ---
