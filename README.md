@@ -9,7 +9,7 @@ I’m a passionate Frontend Developer with hands-on experience in building moder
 ## 🧑‍💻 About Me
 
 - 🎓 Frontend Developer with practical internship experience  
-- ⚛️ React.js completed, focused on real-world projects  
+- ⚛️ MERN STACK, focused on real-world projects  
 - 🧠 Strong understanding of JavaScript fundamentals  
 - 💻 Built complete applications like flight booking & e-commerce websites  
 - 🌱 Constantly learning and improving through projects  
