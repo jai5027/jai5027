@@ -56,7 +56,7 @@ I’m a passionate Frontend Developer with hands-on experience in building moder
 ## 🤝 Let’s Connect
 
 - 💼 GitHub: https://github.com/jai5027  
-- 🐦 X (Twitter): https://x.com/your-username  
+- 🐦 X (Twitter): https://x.com/JaiSharma079
 - 💬 Open to collaboration, internships & frontend opportunities  
 
 ---
