@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jai Sharma
 
-🚀 **Frontend Developer** | React.js Enthusiast | Building projects in public  
+🚀 **MERN STACK Developer** | React.js Enthusiast | Building projects in public  
 
 I’m a passionate Frontend Developer with hands-on experience in building modern, responsive web applications. I have completed a frontend internship and worked on multiple real-world projects using React.js and JavaScript.
 
