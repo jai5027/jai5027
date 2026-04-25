@@ -48,7 +48,7 @@ I’m a passionate Frontend Developer with hands-on experience in building moder
 
 - Improving frontend performance & UI/UX  
 - Writing clean, maintainable React code  
-- Building more real-world projects  
+- Building more real-world proj
 - Preparing for frontend, backend, mern stack roles & opportunities  
 
 ---
